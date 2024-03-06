@@ -2,7 +2,7 @@
 <manifest>
   <!-- Remotes -->
   <remote name="carlodandan" fetch="https://github.com/carlodandan" revision="lineage-20" />
-  <remote name="lineageos" fetch="https://github.com/LineageOS" revision="lineage-20" />
+  <remote name="lineageos" fetch="https://github.com/LineageOS" revision="lineage-19.1" />
 
   <!-- Repositories -->
   <project path="lineage/device/realme/RMX3521" name="android_device_realme_RMX3521" clone-depth="1" remote="carlodandan" />
