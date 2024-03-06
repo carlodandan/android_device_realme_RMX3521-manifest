@@ -8,7 +8,7 @@
   <project path="lineage/device/realme/RMX3521" name="android_device_realme_RMX3521" clone-depth="1" remote="carlodandan" />
   <project path="lineage/kernel/realme/sm6225" name="android_kernel_realme_sm6225" clone-depth="1" remote="carlodandan" />
   <project path="lineage/vendor/realme/RMX3521" name="android_vendor_realme_RMX3521" clone-depth="1" remote="carlodandan" />
-  <project path="lineage/device/realme/RMX3521-prebuilts" name="android_device_realme_RMX3521-prebuilts" clone-depth="1" remote="carlodandan" />
+  <project path="lineage/device/realme/RMX3521-prebuilt" name="android_device_realme_RMX3521-prebuilts" clone-depth="1" remote="carlodandan" />
   <project path="lineage/hardware/oplus" name="android_hardware_oplus" clone-depth="1" remote="lineageos" />
 
 </manifest>
