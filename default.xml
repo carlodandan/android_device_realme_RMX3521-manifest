@@ -2,12 +2,13 @@
 <manifest>
   <!-- Remotes -->
   <remote name="carlodandan" fetch="https://github.com/carlodandan" revision="lineage-20" />
-  <remote name="lineageos" fetch="https://github.com/LineageOS" revision="lineage-19.1" />
+  <remote name="lineageos" fetch="https://github.com/LineageOS" revision="lineage-20.0" />
 
   <!-- Repositories -->
   <project path="lineage/device/realme/RMX3521" name="android_device_realme_RMX3521" clone-depth="1" remote="carlodandan" />
   <project path="lineage/kernel/realme/sm6225" name="android_kernel_realme_sm6225" clone-depth="1" remote="carlodandan" />
   <project path="lineage/vendor/realme/RMX3521" name="android_vendor_realme_RMX3521" clone-depth="1" remote="carlodandan" />
+  <project path="lineage/prebuilts/clang/host/linux-x86/clang-r416183b" name="aosp-clang-prebuilt" clone-depth="1" remote="carlodandan" revision="clang-r416183b" />
   <project path="lineage/device/realme/RMX3521-prebuilt" name="android_device_realme_RMX3521-prebuilts" clone-depth="1" remote="carlodandan" />
   <project path="lineage/hardware/oplus" name="android_hardware_oplus" clone-depth="1" remote="lineageos" />
 
