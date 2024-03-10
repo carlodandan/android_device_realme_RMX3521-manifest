@@ -10,6 +10,6 @@
   <project path="lineage/vendor/realme/RMX3521" name="android_vendor_realme_RMX3521" clone-depth="1" remote="carlodandan" />
   <project path="lineage/prebuilts/clang/host/linux-x86/clang-r416183b" name="aosp-clang-prebuilt" clone-depth="1" remote="carlodandan" revision="clang-r416183b" />
   <project path="lineage/device/realme/RMX3521-prebuilt" name="android_device_realme_RMX3521-prebuilts" clone-depth="1" remote="carlodandan" />
-  <project path="lineage/hardware/oplus" name="android_hardware_oplus" clone-depth="1" remote="lineageos" />
+  <project path="lineage/hardware/oplus" name="android_hardware_oplus" clone-depth="1" remote="lineageos" revision="lineage-20" />
 
 </manifest>
